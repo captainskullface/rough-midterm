@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a55e09da6029349a47be3116d67303, type: 3}
+  m_Name: Tony's
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Listen up Kid, you gotta deliver 5 pizzas. There's John John Thornberry, Tiny
+    Timmy, Martha Suupele, Larry TeKabelGui and d
+  - What do you mean "where are they?", you think I asked, all I took was what they
+    wanted and they wanted our good ass pizza pies.
+  - 'Now get out there and DELIVER THEM PIZZAS. AND DON''T COME BACK UNTIL YOU DO '
